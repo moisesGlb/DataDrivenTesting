@@ -7,7 +7,7 @@ This Repo is part of a training exercise. I'm trying to create a repo with autom
   - Extent reports
   - Selenium
   - Excell sheets with data provider 
-  - Multi Os (you can execute this repo in linux distribution, windows or mac) 
+  - You can execute this repo in linux distribution, windows or mac 
 
 # Requisites
 
