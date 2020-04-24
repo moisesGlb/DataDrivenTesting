@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BankSuite" thread-count="1" parallel="tests">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="listener.Listener"/>
+    </listeners>
+
+    <test name="LoginTest">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="testcases.LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="manager ">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="testcases.addCustomerTest"/>
+            <class name="testcases.OpenAccountTest"/>
+        </classes>
+    </test>
+</suite>

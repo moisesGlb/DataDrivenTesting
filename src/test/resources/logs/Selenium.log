@@ -1,0 +1,17 @@
+22:36:34,138  INFO devpinoyLogger<strong>{1}</strong>:63 - Chrome driver configured
+22:36:38,983  INFO devpinoyLogger<strong>{1}</strong>:70 - Driver successfully created
+22:36:40,482  INFO devpinoyLogger<strong>{1}</strong>:42 - Test LoginsAsManager passed
+22:36:41,151  INFO devpinoyLogger<strong>{1}</strong>:42 - Test LoginsAsMember passed
+22:36:42,519  INFO devpinoyLogger<strong>{1}</strong>:31 - Customer added successfully with customer id :6
+22:36:42,745  INFO devpinoyLogger<strong>{1}</strong>:58 - The data: 6 was saved on sheet: CustomerData, Validated against parameters : ana and rodriguez
+22:36:42,770  INFO devpinoyLogger<strong>{1}</strong>:42 - Test addCustomerTest passed
+22:36:43,345  INFO devpinoyLogger<strong>{1}</strong>:31 - Customer added successfully with customer id :7
+22:36:43,473  INFO devpinoyLogger<strong>{1}</strong>:58 - The data: 7 was saved on sheet: CustomerData, Validated against parameters : jose and fuentes
+22:36:43,473  INFO devpinoyLogger<strong>{1}</strong>:42 - Test addCustomerTest passed
+22:36:44,027  INFO devpinoyLogger<strong>{1}</strong>:31 - Customer added successfully with customer id :8
+22:36:44,153  INFO devpinoyLogger<strong>{1}</strong>:58 - The data: 8 was saved on sheet: CustomerData, Validated against parameters : daniel and perez
+22:36:44,154  INFO devpinoyLogger<strong>{1}</strong>:42 - Test addCustomerTest passed
+22:36:45,152  INFO devpinoyLogger<strong>{1}</strong>:29 - Account created successfully with account Number :1016
+22:36:45,208  INFO devpinoyLogger<strong>{1}</strong>:58 - The data: 1016 was saved on sheet: OpenAccount, Validated against parameters : ana rodriguez and Dollar
+22:36:45,209  INFO devpinoyLogger<strong>{1}</strong>:42 - Test openAccountForExistingCustomers passed
+22:36:45,243  INFO devpinoyLogger<strong>{1}</strong>:22 - Skipping the test: screenshotValidationAmeo because is not approved to run
