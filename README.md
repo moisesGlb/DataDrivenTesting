@@ -23,6 +23,9 @@ $ cd /project/Directory
 $ mvn clean install
 ```
 
-##Report Captures
+# Report Captures
 
 ![](https://raw.githubusercontent.com/moisesGlb/DataDrivenTesting/master/screenshots/reportExecution.png)
+
+### Failed Execution report
+![](https://raw.githubusercontent.com/moisesGlb/DataDrivenTesting/master/screenshots/reportExecutionFailedTest.png)
